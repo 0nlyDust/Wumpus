@@ -7,9 +7,7 @@ El objetivo principal es que un agente controlado por inteligencia artificial ex
 ## Ejecutar el juego en la nube
 Puedes jugar directamente sin instalar nada usando Binder:  
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)]([TU_ENLACE_DE_BINDER_AQUI](https://hub.2i2c.mybinder.org/user/0nlydust-wumpus-ede8x5s7/doc/workspaces/auto-z/tree/Wumpus.ipynb))
-
-Haz clic en el botón y se abrirá un entorno Jupyter temporal donde podrás ejecutar el juego.
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://hub.2i2c.mybinder.org/user/0nlydust-wumpus-ede8x5s7/doc/workspaces/auto-z/tree/Wumpus.ipynb)
 
 ## Instrucciones para Jugar
 
