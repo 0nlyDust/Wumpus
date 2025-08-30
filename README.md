@@ -1,7 +1,7 @@
 # Wumpus
 
 ## Descripción del Proyecto
-Se implementa una solución del juego del Wumpus en un entorno de Jupyter Notebook.  
+Implementación del juego del Wumpus en un entorno de Jupyter Notebook.  
 El objetivo principal es que un agente controlado por inteligencia artificial explore un tablero en busca de oro, evitando caer en hoyos y enfrentarse al Wumpus.
 
 ## Ejecutar el juego en la nube
@@ -41,8 +41,7 @@ Puedes jugar directamente sin instalar nada usando Binder:
 - Movimientos aleatorios del agente podrían ser inválidos en ocasiones, afectando la simulación.
 
 ## Detalles de Diseño
-- Casillas diseñadas a mano con paleta de colores coherente.  
-- El código combina español e inglés debido a la base original en inglés y la adaptación al español.
+- Casillas diseñadas a mano con paleta de colores cohesiva. 
 
 ## Consideraciones Adicionales
 - No se ha implementado la mecánica de la flecha.  
