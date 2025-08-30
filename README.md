@@ -1,4 +1,4 @@
-# Wumpus
+# 🌸 Wumpus
 
 ## Descripción del Proyecto
 Implementación del juego del Wumpus en un entorno de Jupyter Notebook.  
