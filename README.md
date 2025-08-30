@@ -1,7 +1,7 @@
 # 🌸 Wumpus
 
 ## Descripción del Proyecto
-Implementación del juego del Wumpus en un entorno de Jupyter Notebook.  
+Juego del Wumpus implementado en Python usando Jupyter Notebook.
 El objetivo principal es que un agente controlado por inteligencia artificial explore un tablero en busca de oro, evitando caer en hoyos y enfrentarse al Wumpus.
 
 ## Ejecutar el juego con Jupyter Notebook
