@@ -4,11 +4,10 @@
 Implementación del juego del Wumpus en un entorno de Jupyter Notebook.  
 El objetivo principal es que un agente controlado por inteligencia artificial explore un tablero en busca de oro, evitando caer en hoyos y enfrentarse al Wumpus.
 
-## Ejecutar el juego en la nube
-Puedes jugar directamente sin instalar nada usando Binder:  
-
-[Ver Notebook en nbviewer](https://nbviewer.org/github/0nlydust/Wumpus/blob/main/carpeta/Wumpus.ipynb)
-
+## Ejecutar el juego con Jupyter Notebook
+Abre Wumpus.ipynb en Jupyter Notebook o JupyterLab.
+Ejecuta todas las celdas en orden (menú Kernel → Restart & Run All).
+Aparecerá un menú para jugar con el tablero por defecto o personalizarlo.
 
 ## Instrucciones para Jugar
 
